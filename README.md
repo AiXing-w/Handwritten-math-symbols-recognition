@@ -1,0 +1,2 @@
+# Handwritten-math-symbols-recognition
+使用常用的CNN神经网络实现数据超过30万条的手写数学符号识别
